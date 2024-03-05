@@ -34,6 +34,9 @@ Run your browser to "Localhost:3001" or run it in insomnia and decide on GET, PO
 To test the application make sure the repo is cloned to your local client and make sure inquirer and mysql2 is install by simply doing
 "node server.js" and do what is prompted.
 
+## Video Walkthrough
+https://drive.google.com/file/d/1NAReFps2NuquGIxawtbsqw4wsjDoy78H/view
+
 ## User Story
 
 ```md
