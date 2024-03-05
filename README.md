@@ -19,7 +19,8 @@ Run 'npm i or install' to install the required dependencies including express, s
 
 
 ## Description
-For this module's challenge take the knowledge of what we learn during the ORM module and we help a E-commerce back-end business work and flow
+For this module's challenge take the knowledge of what we learn during the ORM module and we help a E-commerce back-end business work and flow correctly and smoothly and to keep
+all databases working.
 
 ## Usage
 To use the application, follow the step provided:
@@ -27,7 +28,7 @@ Clone the repository.
 Install the required dependencies in your terminal.
 Run 'node run seeds' you obtain the seeds.
 Run 'node server.js' in your terminal.
-Click on the link and test the application out or enter localhost and view it and or insomnia.
+Run your browser to "Localhost:3001" or run it in insomnia and decide on GET, POST, DELETE.
 
 ## Test 
 To test the application make sure the repo is cloned to your local client and make sure inquirer and mysql2 is install by simply doing
